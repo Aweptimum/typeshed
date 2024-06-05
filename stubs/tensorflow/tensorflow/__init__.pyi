@@ -33,6 +33,7 @@ from tensorflow.math import (
     abs as abs,
     add as add,
     add_n as add_n,
+    angle as angle,
     argmax as argmax,
     argmin as argmin,
     cos as cos,
